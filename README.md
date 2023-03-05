@@ -2,4 +2,4 @@
 permalink: /index.html
 ---
 
-# De-Influence ME!
+# De-Influence Me
